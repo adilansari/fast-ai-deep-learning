@@ -1,0 +1,6 @@
+[submodule "fastai"]
+	path = fastai
+	url = git@github.com:fastai/fastai
+[submodule "courses"]
+	path = courses
+	url = git@github.com:fastai/courses
